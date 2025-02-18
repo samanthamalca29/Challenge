@@ -1,1 +1,2 @@
 # Challenge
+El desafío consiste en desarrollar una aplicación que permita a los usuarios gestionar una lista de nombres para un sorteo de "Amigo Secreto". Los participantes podrán ingresar nombres a través de un campo de texto y agregarlos con un botón "Añadir". La lista de nombres será visible en pantalla, y al hacer clic en "Sortear Amigo", la aplicación seleccionará aleatoriamente un nombre y lo mostrará como resultado.
